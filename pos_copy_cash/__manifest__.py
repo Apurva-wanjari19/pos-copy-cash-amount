@@ -2,6 +2,7 @@
 {
     "name": "POS Copy Cash Amount",
     "version": "18.0.1.0.0",
+    "license": "LGPL-3",
     "category": "Point of Sale",
     "summary": "Add a Copy Cash button to the POS Close Session popup to Copy Cash Amount",
     "author": "Apurva Wanjari",
